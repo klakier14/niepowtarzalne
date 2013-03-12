@@ -3,7 +3,7 @@ niepowtarzalne
 
 niepowtarzalne
 
-  if (strcmp("/test", cmdtext, true, 10) == 0)
+	if (strcmp("/test", cmdtext, true, 10) == 0)
 	{
 			new spawnpos[3][5];
 			spawnpos[0][0]=2626;
